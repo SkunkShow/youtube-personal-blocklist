@@ -7,5 +7,5 @@ Hank Green
 # uses ai  slop search
 Ants Pants
 
-# promotes slop
+# promotes ai slop
 PewDiePie
