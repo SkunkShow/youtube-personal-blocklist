@@ -1,7 +1,10 @@
-# uses ai slop thumbnails
+# ai generated thumbnails
 bald and bankrupt
 
-# uses ai slop llm
+# ai generated videos
+60 Seconds Docs
+
+# uses llm
 Hank Green
 Ants Pants
 Hardware Haven
